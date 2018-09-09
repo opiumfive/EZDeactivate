@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "206025805373",
+    "firebase_url": "https://ezdeactivatetest.firebaseio.com",
+    "project_id": "ezdeactivatetest",
+    "storage_bucket": "ezdeactivatetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206025805373:android:de435d091d0c3be5",
+        "android_client_info": {
+          "package_name": "com.opiumfive.ezdeactivate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206025805373-c3nmcbqm18kolqfs22q3aln096gmo6u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwG6413UrBVktncTeaPzS_pWGY1toJBgU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
