@@ -5,7 +5,7 @@ import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 
 object AppActiveChecker {
 
-    private const val DEFAULT_EXPIRATION_TIME = 600L // 1 mins
+    private const val DEFAULT_EXPIRATION_TIME = 600L // 10 mins
     private const val IS_ACTIVE_KEY = "app_enabled"
 
     init {
