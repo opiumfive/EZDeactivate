@@ -1,2 +1,1 @@
-Простой пример как "защититься" фрилансеру от обмана заказчиков.
-Заказчик отказался платить по итогу работ - просто отключаем для всех пользователей приложение через Firebase Remote Config.
+An easy sample of freelancer's insurance from being unpdaid by switching off an app by Firebase Remote Config.
